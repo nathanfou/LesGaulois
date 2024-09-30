@@ -23,4 +23,9 @@ public class Chef {
 		romain.recevoirCoup(force / 3);
 	}
 
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return super.toString();
+	}
 }
